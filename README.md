@@ -17,3 +17,17 @@
 
 ![Argument - 4 structure](4_structure.png)
 ![Argument - 5 structure](5_structure.png)
+
+### Day 5
+ 
+Skill        &     Efficiency   
+Technology   &     Safety  
+Right        &     Responsibility  
+Environment  &     Health  
+Employment   &     Money  
+Culture      &     Fun
+
+Day6
+### Use linking words that you fully understand and can use accurately. Avoid using linking words tha you only partially understand
+
+Not every sentence needs to start with a linking word.
