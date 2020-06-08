@@ -102,4 +102,10 @@ The graph show three different sector workforce in Japan, Brazil and india. The 
 
 Starting at is the highest one in the three countries on service sector which 3 times more than india and 20 % than Brazil
 
+Starting at Japan which a is service sector more than two the other countries, three times more than india and 20% more than Brazil.
+
+as far as concern about india, The figures for agricultural sector is more than 7 times
+Japan and more than 50% Brazil.As we know, India
+
+
 The data indicated that the country with a more developed economy has ha
