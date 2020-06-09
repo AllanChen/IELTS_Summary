@@ -1,37 +1,47 @@
-动词 + 副词
-increase / rise / grow
-decrease / fell / drop 
+动词 + 副词  
 
-大幅度  sharply  / dramatically / rapidly
-平稳地  steadily / consistently / gradually 
-小幅度  slightly / marginally   / minimally
+上升 increase / rise / grow  
+保持 fluctuate / experience fluctuation   
+下降 decrease / fell / drop 
+
+| 大幅度     | 保持        | 小幅度 |
+| :-----    | ----:      | :----: |
+| increase  | gradual    | slight |
+| rise      | steady     | minimal |
+| sharp     | consistent | marginally |
+
+
+大幅度  sharply  / dramatically / rapidly  
+平稳地  steadily / consistently / gradually   
+小幅度  slightly / marginally   / minimally  
 
 形容词 + 名词
 
 
-波动:
-fluctuate
+波动:  
+fluctuate  
+(The figures for the fish of the consumption fluctuates throughout the period)  
 experience fluctuation
 
 保持平稳：
-remain stable
+remain stable  
 stay constant
 
-达到最高点：
-reach the peak
+达到最高点：  
+reach the peak   
 reach the hightest point
 
-达到最低定：
-reach the lowest level
-reach the lowest point
-hit a low of
+达到最低定：  
+reach the lowest level  
+reach the lowest point  
+hit a low of  
 
-经典句型：
-1: X + 趋势动词 + 副词
-2: There was a + 形容词 + 趋势名词 + in X
-3: 时间 +  saw / witness a /experience + 形容词 + 趋势名词  (The year 2019 witnessed a consistent drop in beef)
-4: A + 形容词 + 趋势名词 + took place / occurred (A sharp slight took place in price of textbook)
-5: x + showed / took + an upward / downward trend (Beef showed downward trend)
+经典句型：  
+1: X + 趋势动词 + 副词  
+2: There was a + 形容词 + 趋势名词 + in X  
+3: 时间 +  saw / witness a /experience + 形容词 + 趋势名词  (The year 2019 witnessed a consistent drop in the price of beef)  
+4: A + 形容词 + 趋势名词 + took place / occurred (A sharp slight took place in price of textbook)  
+5: x + showed / took + an upward / downward trend (Beef showed downward trend)  
 
 连接语句：
 
@@ -68,14 +78,16 @@ The London underground had fluctuation experience from
 先降后升
 Starting from one billion passengers using national rail way in 1950, The figure for national rail network rose slightly to reach a peak of about 1.1 billion just before 1960s.
 
-先降后升
-
 The line graph illustrates the  passenger railway journeys in Great Britain and all they were a show an upward trend in between 1950 and 2004/05
 
 The number of people had dropped slightly in the subsequent years which it was reaching a peak of 1.1 billion just before the 1960s
 The figure for the national railway dropped steadily from around 1.1 billion to 730 million and then hit the lowest point after 1980. compare to the figure for London Underground which had around 740 million passengers in 1950s was only two-thirds of those taking national rail network After this, the number remained steadily for the 20 years, followed by a fall slightly and hit the lowest point 490 million after in 1980, however, The figure showed an upward trend after several years and similar pattern as the to the national rail network, both had the highest level in 2004/5
 
 on the other hand, after their introduction in the 1960s, the light rail and metro systems carried a part of passengers and then had an upward trend. Nonetheless, in  1980, there was a marginal increase in the number of journeys made by passengers, reaching nearly 200 million in 2004/05
+
+Beginning in 1959, the price of beef remains stable in 22, which in 1995 had risen dramatically to 55 every week—increased 50% in 20 years. Compares to the price of fish it experienced fluctuation around 22 in 20 years and show a downward trend in the future.
+
+-----------------
 
 柱状图
 柱状图 -- 在适当的地方进行比较
@@ -91,7 +103,7 @@ on the other hand, after their introduction in the 1960s, the light rail and met
 
 In 2000, the average amount of time spent on watching TV on a daily by adults in us was more than ten minutes by children
 
-In 2000, the average time spent on watching TV on a daily by adults in us was more than ten minutes by children.
+In 2000, the average time spent on watching TV on a daily by adults in US was more than ten minutes by children.
 
 <!-- In 2000, adults spent on watching TV every day in us was more than ten minutes by children -->
 
@@ -108,4 +120,31 @@ as far as concern about india, The figures for agricultural sector is more than 
 Japan and more than 50% Brazil.As we know, India
 
 
-The data indicated that the country with a more developed economy has ha
+----
+The proportion shows the worker in three different sectors between 
+developing country and developed country.
+
+As far as concerned, India is one of developing country in the world which had large of population and agricultural is the first production in India which is 7 times more than Japan and more than 2 times than Brazil However, the figure for the industrial sector is opposite of the agricultural sector. 3% of workers in the industrial sector for Japan 3 times than India and 10% more than Brazil. 
+
+Just like the industrial sector data, In Japan, the figures for the service sector had a similar pattern to the industrial sector, which is 20% more than Brazil and 40% more than India.
+
+----
+
+As far as concerned, India is one of developing country in the world which had large of population and agricultural is the majority of the Indian worker which is 7 times more than Japan and more than 2 times than Brazil. However, the proportion for the industrial sector is the opposite of the agricultural sector,30% of workers in Japan, around 25% of workers in Brazil and merely 10% of workers in India. 
+
+In Japan, the figures for the service sector had a similar pattern to the industrial sector, which is 20% more than Brazil and 40% more than India. Service as the majority in Japan amounting to two-third people of its.
+
+
+Part 3 饼状图：
+1: 大比例或小比例 + 主语 + 谓语, with + 数字
+a majority of sales in Bob's store come from DVDs, with exactly 60%
+2: 主语+（表示“组成”的动词）+ 数字
+DVDs amount two-thirds of the total sales
+3: 单位 of 主语 + which/who + is + 数字
+The percentage of pc games which sold is exactly 20%
+4: 数字 + 主语 + 谓语
+Fifteen percent of items sold in the store are CDs
+5: There be + 数字 + 主语 + which/who
+There is merely 5% of the total revenue generated by selling posters
+6: For + 主题，数字 + 主语 + 谓语
+For the sales of posters, only 5% contributes to the turnover（营业额）.
