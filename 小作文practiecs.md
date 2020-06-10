@@ -21,7 +21,6 @@ on the other hand, after their introduction in the 1960s, the light rail and met
 Beginning in 1959, the price of beef remains stable in 22, which in 1995 had risen dramatically to 55 every week—increased 50% in 20 years. Compares to the price of fish it experienced fluctuation around 22 in 20 years and show a downward trend in the future.
 
 
-
 ### 柱状图
 The graph show three different sector workforce in Japan, Brazil and india. The figures for agriculture sector in india is more higher than the other two countries.
 
@@ -55,3 +54,10 @@ Speaking of Japan first, service sector is a majority production which has two-t
 people in this sector is around 60% more than India. in additional the figures for the Brazil in service sector also 30% high than India. Around one-thirds people is working on service sector in india.As we know India is part of the a developing countries which had been lager population in agricultural sector as the figures, 70% of workforce agricultural sector, it almost three-forth people. the number of people is 7 times more than Japan and 2 times more than Brazil.
 
 About the industrial sector of the three countries, Merely 10% of workforce in india compares to the agricultural sector almost 7 times less than it. Japan is the highest level in industrial sector almost one-third of working population work in the industrial sector that 10 % is higher than Brazil
+
+
+The proportion shows the worker in three different sectors between developing country and developed country.
+
+Speaking of Japan first, the service sector is a majority production which has two-thirds people in this sector is around 60% more than India. In additional the figures for Brazil in the service sector also 30% high than India. Around one -thirds people is working in the service sector in India. As we know, India is part of the developing countries which had the most population in the agricultural sector as the figures, 70% of workforce agricultural sector, it almost three-fourth people. The number of people is 7 times more than in Japan and 2 times more than in Brazil.
+
+About the industrial sector of the three countries, Merely 10% of the workforce in India compares to the agricultural sector. The data is almost 7 times less than agricultural sector. Japan is the highest level in the industrial sector; almost one-third of the working population work in the industrial sector that 10 % is higher than in Brazil.
