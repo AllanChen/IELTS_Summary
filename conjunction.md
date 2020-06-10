@@ -15,6 +15,7 @@
 
 - Conversely,
 - In contrast,
+    - In contrast,  The industry sector of percentage workforce in india is lower than two other countries. As we can see, Japan had 70% , Barzil had 60% and india merely 5%.
 - In contrast to this,
 - Nevertheless,
 - Nonetheless,
