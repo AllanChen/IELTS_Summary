@@ -126,8 +126,23 @@ expenditure on resources such as books had increased to 20% by 1991 before decre
 
 
 we can see that in HongKong the greatest proportion of expenditure was on housing, with exactly 32%. while in Britain housing accounted for just 18% of the total.
+
+According to the figures, In Hongkong the greatest proportion of expenditure was on housing, with exactly 32%. but in Britain housing accounted for just 18% of the total
+
 In contrast, in Britain the expense on other goods and services, the greatest cost, was 36%, compared with 28% in Hong Kong. Food came in second place in Britain, at 22%, while in Hong Kong the actual proportion was higher(27%). In Britain, there was 17% of money spent on transport in one family, but this was much lower in HongKong (9%).For the expenditure on clothing, in both regions the smallest percentage contributes to this category
+
+
+
+
 
 The pie charts illustrate average household expenditure in HongKong and Britain in the year 2000.
 
-Beginning from HongKong, The housing is the biggest expenditure, with exactly 32% almost 2 times more than the Britain. But The percentage of other goods and services expenditure in Britain is exactly 36% which is the biggest cost in Britain, in addition, other goods and services is the second cost in hongkong.And the figures for expenditure on Food is still a big cost for the two countries, 22 percent in Britain and 27 percent in Hongkong. Expenditure on transport for both countries had different which the proportion in Britain, with exactly 17 percent is 8 percent more than HongKong. Expenditure on clothing is the smallest cost for both of countries 
+According to the figures, In Hongkong the greatest proportion of expenditure was on housing, with exactly 32%. but in Britain housing accounted for just 18% of the total.
+
+The second place of the cost in Britain is the other goods and services which is 36% in total but in hongkong 
+
+
+
+Beginning from HongKong, The housing is the biggest proportion of expenditure, with exactly 32% of the total almost 2 times more than the Britain(18%).
+But The percentage of other goods and services expenditure in Britain is exactly 36% which is the biggest cost in Britain, in addition, other goods and services is the second cost
+ in hongkong.And the figures for expenditure on Food is still a big cost for the two countries, 22 percent in Britain and 27 percent in Hongkong. Expenditure on transport for both countries had different which the proportion in Britain, with exactly 17 percent is 8 percent more than HongKong. Expenditure on clothing is the smallest cost for both of countries 
