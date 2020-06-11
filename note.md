@@ -135,7 +135,6 @@ In contrast, in Britain the expense on other goods and services, the greatest co
 
 
 
-
 The pie charts illustrate average household expenditure in HongKong and Britain in the year 2000.
 
 According to the figures, In Hongkong the greatest proportion of expenditure was on housing, with exactly 32%. but in Britain housing accounted for just 18% of the total.
@@ -152,3 +151,7 @@ in hongkong.And the figures for expenditure on Food is still a big cost for the 
 The table shows Australia visitors from world wired in decade. as we can see the figures of all
 countries was show an upward trend.
 Beginning from the UK which had risen dramatically in decade and reached a peak in 509 in 1999
+In contrast, In united states had similar trend with United Kingdom increased 134 thousands in 
+past ten years which risen 20 thousands for every years. compare to other europe which had stable 
+increased like united states, the number of visitors risen 2 times from 1991 to 1999.Germany, exactly
+75 travelled to Australia in 1991, but the figure almost doubled at the end of the decade, with 140 thousand visiting it
