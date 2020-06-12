@@ -146,3 +146,8 @@ The second place of the cost in Britain is the other goods and services which is
 Beginning from HongKong, The housing is the biggest proportion of expenditure, with exactly 32% of the total almost 2 times more than the Britain(18%).
 But The percentage of other goods and services expenditure in Britain is exactly 36% which is the biggest cost in Britain, in addition, other goods and services is the second cost
  in hongkong.And the figures for expenditure on Food is still a big cost for the two countries, 22 percent in Britain and 27 percent in Hongkong. Expenditure on transport for both countries had different which the proportion in Britain, with exactly 17 percent is 8 percent more than HongKong. Expenditure on clothing is the smallest cost for both of countries 
+
+
+
+
+ the China economic was similar to the American between 1999 to 2003 and after that china had unbelievable increase stable increase 10% for every year  between 2004 to 2008. however, in last decade it dropped sharply and hit the lowest point  2000 in 2010. while American economic had opposite way rose rapidly.
