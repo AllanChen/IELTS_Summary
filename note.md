@@ -148,11 +148,6 @@ But The percentage of other goods and services expenditure in Britain is exactly
 
  in hongkong.And the figures for expenditure on Food is still a big cost for the two countries, 22 percent in Britain and 27 percent in Hongkong. Expenditure on transport for both countries had different which the proportion in Britain, with exactly 17 percent is 8 percent more than HongKong. Expenditure on clothing is the smallest cost for both of countries 
 
-
-
-
- the China economic was similar to the American between 1999 to 2003 and after that china had unbelievable increase stable increase 10% for every year  between 2004 to 2008. however, in last decade it dropped sharply and hit the lowest point  2000 in 2010. while American economic had opposite way rose rapidly.
-
 in hongkong.And the figures for expenditure on Food is still a big cost for the two countries, 22 percent in Britain and 27 percent in Hongkong. Expenditure on transport for both countries had different which the proportion in Britain, with exactly 17 percent is 8 percent more than HongKong. Expenditure on clothing is the smallest cost for both of countries 
 
 
@@ -164,3 +159,6 @@ past ten years which risen 20 thousands for every years. compare to other europe
 increased like united states, the number of visitors risen 2 times from 1991 to 1999.Germany, exactly
 75 travelled to Australia in 1991, but the figure almost doubled at the end of the decade, with 140 thousand visiting it
 
+
+
+ the Chinese economy was similar to the American between 1999 to 2003 and after that, china had unbelievable increase stable 10% for every year  between 2004 to 2008. however, from 2000 to 2010 it dropped sharply and hit the lowest point 2000. while American economic had opposite way rose rapidly although it had not increase 10% ever year like chain but stable 3% to 6% every year, compare with in 1999  the figure almost double it.
