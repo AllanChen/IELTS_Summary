@@ -4,3 +4,6 @@ The figures for chicken has climbed steadily to 250 between 1979 and 2004, aroun
 
 The summary of consumption of the 4 kinds of meat in Britain between 1979 and 2004 is the chicken becomes the top sale meat, the second is the beef and third is the lamb and fish is last.
 
+
+
+the figure shows the apple sales record is three times higher than the peach and reached a peak in 66% in 1999. While the lemon sales record experience fluctuation between 1999 to 2003 when it dropped sharply to 20% in 2005 around 10 % decreased in past two year
